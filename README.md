@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbemiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="gbemiiiii" /> </p>
 
 
-
+<p align="left"> <a href="https://twitter.com/gbemiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/gbemiiiii?logo=twitter&style=for-the-badge" alt="gbemiiiii" /></a> </p>
 
 - 🏫 **Currently Enrolled to AltSchool School of Engineering.**
 
@@ -30,7 +30,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gbemiiiii&show_icons=true&locale=en" alt="gbemiiiii" /></p>
 
-<p align="left"> <a href="https://twitter.com/gbemiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/gbemiiiii?logo=twitter&style=for-the-badge" alt="gbemiiiii" /></a> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gbemiiiii" alt="gbemiiiii" /></a> </p>
 
