@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth Igbasan G</h1>
 <h3 align="center">A passionate developer with core interests in Algorithms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbemiiiii&label=Profile%20views&color=0e75b6&style=flat" alt="gbemiiiii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GbemiHack&label=Profile%20views&color=0e75b6&style=flat" alt="gbemiiiii" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/gbemiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/gbemiiiii?logo=twitter&style=for-the-badge" alt="gbemiiiii" /></a> </p>
